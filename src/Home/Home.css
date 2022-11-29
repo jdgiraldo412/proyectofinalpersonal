@@ -1,0 +1,8 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotifyjdg-eff06.appspot.com/o/gorillaz.jpg?alt=media&token=fb2b6291-97c7-477b-9adc-887c5f5302fe');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30%;
+};
+
